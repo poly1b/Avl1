@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(49, 109, 109);
+      color: rgb(218, 205, 224);
+      border: solid 5px;
+      border-color: rgb(47, 192, 202);
+}
+
+h1 {
+    text-size-adjust: 100;
+}
+
+#girassol {
+    width: 20%;
+}
+
+#images {
+    width: 50%;
+}
+
+#red {
+    width: 30%;
+}
+
